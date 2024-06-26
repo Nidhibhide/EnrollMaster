@@ -1,6 +1,9 @@
 
 
-https://github.com/Nidhibhide/EnrollMaster/assets/158697336/2aa1a96f-048d-4873-a615-675be5ab1ef5
+
+
+https://github.com/Nidhibhide/EnrollMaster/assets/158697336/04f91ce7-cb90-4d72-86a5-432b305033aa
+
 I designed and developed EnrollMaster, a course enrollment application using Java Server Pages. This system allows students to enroll in multiple courses seamlessly. I utilized XAMPP as the local server for the development and deployment of the application. My primary role involved participating in the coding phase and managing the database. Through this project, I ensured a smooth and efficient user experience for course enrollment.
 
 Tools Used : HTML5 , CSS3 , BOOTSTRAP , Java Server Pages(JSP) , MYSQL , XAMPP (local Server) , JavaScript
